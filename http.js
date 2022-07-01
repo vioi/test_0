@@ -4,7 +4,7 @@ import intl from 'react-intl-universal';
 import { message } from 'antd';
 import Qs from 'qs';
 // import history from '../routes/history';
-//现在放宽到180秒供开发环境调试规则调用使用现在放宽到180秒供开发环境调试规则调用使用现在放宽到180秒供开发环境调试规则调用使用
+//现在放宽到180秒供开发环境调试规则调用使用现在放宽到180秒供开发环_____境调试规则调用使用现在放宽到180秒供开发环境调试规则调用使用
 // axios 配置
 // 20190802 默认超时时间应当是60秒，现在放宽到180秒供开发环境调试规则调用使用
 axios.defaults.timeout = 180000;
